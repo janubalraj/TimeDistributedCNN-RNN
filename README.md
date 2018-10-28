@@ -26,7 +26,7 @@ The file 'model' contains checkpoints for the NN that was trained with our datas
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
